@@ -29,7 +29,7 @@ show_balance() → عرض الرصيد الحالي.
 تأكد أن Python مثبتة على جهازك (يفضل Python 3.7+).
 
 2️⃣ تشغيل البرنامج
-python main.py
+python banking-system.py
 
 
 سيظهر لك القائمة الرئيسية مع الخيارات: Withdraw, Deposit, Transfer, Show Balance, Exit.
